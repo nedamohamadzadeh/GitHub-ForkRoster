@@ -47,7 +47,7 @@ Find the file <code>roster.md</code>, open it in **Notepad++**, and enter the in
 
 **Step #7 - Describe and Commit Changes to Master**
 
-After editing <code>roster.md</code>, you should see a snippet of the file in **GitHub Desktop** that highlights the revisions you just made.  Characterize your edits with a summary and short description (bottom left corner of **GitHub Desktop**), then choose Commit to Main.  This workflow allows you to maintain a record of changes made - essentially multiple versions of the same file - without having to have multiple copies of your file (e.g., bio1.txt, bio2.txt, etc.).  This is version control!
+After editing <code>roster.md</code>, you should see a snippet of the file in **GitHub Desktop** that highlights the revisions you just made.  Characterize your edits with a summary and short description (bottom left corner of **GitHub Desktop**), then choose Commit to Main.  This workflow allows you to maintain a record of changes made - essentially multiple versions of the same file - without having to have multiple copies of your file (e.g., roster1.md, roster2.md, etc.).  This is version control!
 
 **Step #8 - Push Changes to Origin Repository on GitHub**
 
@@ -55,7 +55,7 @@ After you have made all of the changes you want, you now have to sync these chan
 
 **Step #9 - Verify Changes in GitHub**
 
-In **GitHub Desktop**, choose the option to open your repository page on **GitHub** in your Web browser.  Alternatively, you can simply open a Web browser and navigate to https://github.com.  Find the updated <code>roster.txt</code> file in the forked repository and open it to confirm that your local changes are now reflected in your online repository.
+In **GitHub Desktop**, choose the option to open your repository page on **GitHub** in your Web browser.  Alternatively, you can simply open a Web browser and navigate to https://github.com.  Find the updated <code>roster.md</code> file in the forked repository and open it to confirm that your local changes are now reflected in your online repository.
 
 **Step #10 - Create a Pull Request**
 
@@ -63,4 +63,4 @@ ENTER TEXT FOR THE PULL REQUEST
 
 ### Submission
 
-After completing the requested edits to <code>roster.txt</code> make sure that you have (1) committed the changes to the main branch and provided a short summary and description of your changes and (2) pushed those changes from your local repository to the origin repository on **GitHub**.  Double check your work by reviewing the forked repository on GitHub and ensure your pull request is submitted.  As the owner of the repository that you forked, I will receive a message with your pull request and have the option to accept or decline the proposed changes to the <code>roster.txt</code> file.  I will demonstrate this in class!
+After completing the requested edits to <code>roster.txt</code> make sure that you have (1) committed the changes to the main branch and provided a short summary and description of your changes and (2) pushed those changes from your local repository to the origin repository on **GitHub**.  Double check your work by reviewing the forked repository on GitHub and ensure your pull request is submitted.  As the owner of the repository that you forked, I will receive a message with your pull request and have the option to accept or decline the proposed changes to the <code>roster.md</code> file.  I will demonstrate this in class!
