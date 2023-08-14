@@ -18,3 +18,4 @@
 | Singh | Rahul |
 | Tasnim | Mobashsira |
 | van Versendaal Pirez | Emmanuela |
+| Hutchinson | Shawn | Geography | John Harrington | Ice Hockey |
