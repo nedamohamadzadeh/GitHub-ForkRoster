@@ -3,11 +3,11 @@
 
 ### Objective
 
-Learn how to fork a public repository, commit changes to a working file, then create a pull request.push those changes back to the project master repository.
+Learn how to find and fork a public repository, commit changes to a working file, then create a pull request.
 
 ### Task
 
-After finding an interesting repository, create a fork, clone the fork, and then then edit a working file.  Submit your proposed change to the repository owner for consideration via a **pull request**.
+After finding an interesting repository, create a fork, clone a local copy of the fork, and then edit a working file.  Push the changes to your forked repo on GitHub and then submit your proposed changes to the repository owner for consideration via a **pull request**.
 
 ### Required Software
 
@@ -19,11 +19,11 @@ The following software programs will be used in this exercise.  Each is availabl
 
 **Step #1 - Create a GitHub Account**
 
-This assignment assumes you already have a GitHub account.  If not, then login to **GitHub** (https://github.com) and create a free personal account.  GitHub will serve as your online storage for coding work this semester.  I will be able to access your class-related code, provide feedback, answer your questions, and grade your assignments.  You will also have a permanent copy of your work that you retain and control after the semester ends.
+This assignment assumes you already have a GitHub account.  If you do not, then login to **GitHub** (https://github.com) and create a free personal account.  GitHub will serve as your online storage for coding work this semester.  I will be able to access your class-related code, provide feedback, answer your questions, and grade your assignments.  You will also have a permanent copy of your work that you retain and control after the semester ends.
 
 **Step #2 - Find an Interesting Public Repository**
 
-Login to your GitHub account, then search for the repository ____.
+Login to your GitHub account, then search for the repository owner **KSU-GEOG-728**.  
 
 **Step #3 - Start GitHub Desktop**
 
