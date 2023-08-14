@@ -25,25 +25,29 @@ This assignment assumes you already have a GitHub account.  If you do not, then 
 
 Login to your GitHub account, then search for the repository owner **KSU-GEOG-728**.  
 
-**Step #3 - Start GitHub Desktop**
+**Step #3 - Create a Fork**
+
+After finding the public *GitHub-ForkRepository* repository owned by **KSU-GEOG-728**, find the Fork button near the top of the page, click the drop down arrow, and choose <code>Create a New Fork</code>.  Typically, forks retain the same name and the original repository but will reside under your GitHub account.
+
+**Step #4 - Start GitHub Desktop**
 
 Start and login to **GitHub Desktop** using your new GitHub account credentials.
 
-**Step #4 - Create a Local Clone**
+**Step #5 - Create a Local Clone**
 
 Within **GitHub**, find your newly forked repository, click the green Code button, and choose *Open with GitHub Desktop*.  **GitHub Desktop** gives you the option to open the locally cloned files in an editor program (e.g., Notepad++), viewing the repository files in Windows Explorer, or opening the repository page on GitHub in a Web browser.
 
-**Step #5 - View Files in Windows Explorer**
+**Step #6 - View Files in Windows Explorer**
 
 In **GitHub Desktop**, choose the option to view the files of your repository in Explorer.
 
-**Step #6 - Edit a File in Notepad++**
+**Step #7 - Edit a File in Notepad++**
 
-Find the file <code>roster.txt</code>, open it in **Notepad++**, and enter the information requested on the line with your name.  
+Find the file <code>roster.md</code>, open it in **Notepad++**, and enter the information requested on the line with your name. A file with the <code>.md</code> suffix indicates that it is a **Markdown** file. Markdown is an easy-to-read, easy-to-write language for formatting plain text that you can use to format your writing on GitHub in places like repository READMEs and comments on pull requests and issues.
 
 **Step #7 - Describe and Commit Changes to Master**
 
-After editing <code>roster.txt</code>, you should see a snippet of the file in **GitHub Desktop** that highlights the revisions you just made.  Characterize your edits with a summary and short description (bottom left corner of **GitHub Desktop**), then choose Commit to Main.  This workflow allows you to maintain a record of changes made - essentially multiple versions of the same file - without having to have multiple copies of your file (e.g., bio1.txt, bio2.txt, etc.).  This is version control!
+After editing <code>roster.md</code>, you should see a snippet of the file in **GitHub Desktop** that highlights the revisions you just made.  Characterize your edits with a summary and short description (bottom left corner of **GitHub Desktop**), then choose Commit to Main.  This workflow allows you to maintain a record of changes made - essentially multiple versions of the same file - without having to have multiple copies of your file (e.g., bio1.txt, bio2.txt, etc.).  This is version control!
 
 **Step #8 - Push Changes to Origin Repository on GitHub**
 
