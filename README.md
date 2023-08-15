@@ -3,11 +3,11 @@
 
 ### Objective
 
-Learn how to find and fork a public repository, commit changes to a working file, then create a pull request.
+Learn how to find and fork a public repository, commit changes to a working file, and create a pull request.
 
 ### Task
 
-After finding an interesting repository, create a fork, clone a local copy of the fork, and then edit a working file.  Push the changes to your forked repo on GitHub and then submit your proposed changes to the repository owner for consideration via a **pull request**.
+After finding an interesting repository, create a fork, clone a local copy of the fork, and then edit a working file.  Push the changes to your forked repo on GitHub and then submit your proposed changes to the repository owner for consideration as a **pull request**.
 
 ### Required Software
 
@@ -19,15 +19,15 @@ The following software programs will be used in this exercise.  Each is availabl
 
 **Step #1 - Create a GitHub Account**
 
-This assignment assumes you already have a GitHub account.  If you do not, then login to **GitHub** (https://github.com) and create a free personal account.  GitHub will serve as your online storage for coding work this semester.  I will be able to access your class-related code, provide feedback, answer your questions, and grade your assignments.  You will also have a permanent copy of your work that you retain and control after the semester ends.
+This assignment assumes you already have a GitHub account.  If you do not, login to **GitHub** (https://github.com) and create a free personal account.  GitHub will serve as your online storage for coding work this semester.  I will be able to access your class-related code, provide feedback, answer your questions, and grade your assignments.  You will also have a permanent copy of your work that you retain and control after the semester ends.
 
 **Step #2 - Find an Interesting Public Repository**
 
-Login to your GitHub account, then search for the repository owner **KSU-GEOG-728**.  
+Login to your GitHub account, then search for the repository owner **KSU-GEOG-728**.  Next, find the repository *GitHub-ForkRoster*.  
 
 **Step #3 - Create a Fork**
 
-After finding the public *GitHub-ForkRepository* repository owned by **KSU-GEOG-728**, find the Fork button near the top of the page, click the drop down arrow, and choose <code>Create a New Fork</code>.  Typically, forks retain the same name and the original repository but will reside under your GitHub account.
+After finding the public *GitHub-ForkRoster* repository owned by **KSU-GEOG-728**, locate the Fork button near the top of the page, click the drop down arrow, and choose <code>Create a New Fork</code>.  Typically, forks retain the same name as the original repository but will reside under your GitHub account.
 
 **Step #4 - Start GitHub Desktop**
 
@@ -43,7 +43,7 @@ In **GitHub Desktop**, choose the option to view the files of your repository in
 
 **Step #7 - Edit a File in Notepad++**
 
-Find the file <code>roster.md</code>, open it in **Notepad++**, and enter the information requested on the line with your name. A file with the <code>.md</code> suffix indicates that it is a **Markdown** file. Markdown is an easy-to-read, easy-to-write language for formatting plain text that you can use to format your writing on GitHub in places like repository READMEs and comments on pull requests and issues.
+Find the file <code>roster.md</code>, open it in **Notepad++** or your preferred text editor, and enter the information requested on the line that begins with your name. A file with the <code>.md</code> suffix indicates that it is a **Markdown** file. Markdown is an easy-to-read, easy-to-write language for formatting plain text that you can use to format your writing on GitHub in places like repository READMEs and comments on pull requests and issues.  As we will see later, Markdown is also used in both Jupyter and ArcGIS Notebooks to annotate code. 
 
 **Step #7 - Describe and Commit Changes to Master**
 
@@ -51,7 +51,7 @@ After editing <code>roster.md</code>, you should see a snippet of the file in **
 
 **Step #8 - Push Changes to Origin Repository on GitHub**
 
-After you have made all of the changes you want, you now have to sync these changes - which apply only to the local version of the repository - to your riginal forked repo on **GitHub**. Once you have committed changes to master, you will have the option to push the commits to the origin remote.  Click the blue *Push Origin* button.
+After you have made all of the changes you want, you now have to sync these changes - which currently apply only to the local version of the repository - to your riginal forked repo on **GitHub**. Once you have committed changes to master, you will have the option to push the commits to the origin remote.  Click the blue *Push Origin* button.
 
 **Step #9 - Verify Changes in GitHub**
 
@@ -59,7 +59,7 @@ In **GitHub Desktop**, choose the option to open your repository page on **GitHu
 
 **Step #10 - Create a Pull Request**
 
-After confirming that your edits were successfully pushed to the fork on GitHub from your local cloned repository, open the <code>roster.md</code> file, then find and click on **Pull Requests** from the main menu.  Create a pull request by clicking the appropriate link.  Look closely at the *Comparing Changes* screen as it is showing you a lot of important information including what changes you are proposing, along with the head (source of change) and base (recipient of change) repositories.  Once you’re confident that all is in order, click the green **Create Pull Request** button, then enter some comments describing the changes you have made.  The repository owner will receive notification of the pull request and have the option to ignore or merge your changes into the project.  You, too, will be alerted to the outcome of your request...check your GitHub messages!
+After confirming that your edits were successfully pushed to the fork on GitHub from your local cloned repository, open the <code>roster.md</code> file in **GitHub**, then find and click on **Pull Requests** from the main menu.  Create a pull request by clicking the appropriate link.  Look closely at the *Comparing Changes* screen as it shows you a lot of important information including what changes you are proposing, along with the head (source of change) and base (recipient of change) repositories.  Once you’re confident that all is in order, click the green **Create Pull Request** button, then enter some comments describing the changes you have made.  The repository owner will receive notification of your pull request and have the option to ignore or merge your changes into the project.  You, too, will be alerted to the outcome of your request...check your GitHub messages!
 
 ### Submission
 
