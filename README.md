@@ -23,7 +23,7 @@ This assignment assumes you already have a GitHub account.  If you do not, login
 
 **Step #2 - Find an Interesting Public Repository**
 
-Login to your GitHub account, then search for the repository owner **KSU-GEOG-728**.  Next, find the repository *GitHub-ForkRoster*.  
+Login to your GitHub account, then search for the repository owner **owner: KSU-GEOG-728**.  Next, find the repository *GitHub-ForkRoster*.  
 
 **Step #3 - Create a Fork**
 
