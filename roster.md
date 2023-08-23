@@ -21,5 +21,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo |
 | Singh | Rahul |
-| Tasnim | Mobashsira |
 | van Versendaal Pirez | Emmanuela |
